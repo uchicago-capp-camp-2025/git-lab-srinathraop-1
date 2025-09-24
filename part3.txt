@@ -1,4 +1,4 @@
 1. What word was changed in 'text/time-machine.txt'
 red was changed to green
 2. What did the script do to the file 'text/last-question.txt'
-The word question was changed to the symbol '?'
+The word question was changed to the symbol of question mark '?'
